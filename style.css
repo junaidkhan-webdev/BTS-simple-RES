@@ -1,0 +1,9 @@
+.back{
+    background-image: url("netflex.jpeg");
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    color: white   ;
+    padding: 50px  ;
+    
+}
